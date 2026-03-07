@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Computer Networks and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-tripti-kash.vercel.app/](https://portfolio-tripti-kash.vercel.app/)
-
 - 💬 Ask me about **Full-stack web development and Data Structures & Algorithms**
 
 - 📫 How to reach me **tripti23557@iiitd.ac.in**
