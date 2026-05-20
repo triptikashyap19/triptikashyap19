@@ -1,28 +1,202 @@
-<h1 align="center">Hi, I'm Tripti Kashyap</h1>
-<h3 align="center">IIIT Delhi ECE junior | Passionate about problem-solving, web technologies & scalable applications</h3>
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l1ZXpwZ2RzMDA1bzExcWl0cWVwbXVzeWJxYjF5bmpodGsxeWV2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="">
-</p>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=triptikashyap19&label=Profile%20views&color=0e75b6&style=flat" alt="triptikashyap19" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0030,60:0d001a,100:0d0d0d&height=280&section=header&text=TRIPTI%20KASHYAP&fontSize=75&fontColor=ff2d9b&animation=twinkling&fontAlignY=50&stroke=00f0ff&strokeWidth=2&desc=ECE%20%40%20IIIT%20Delhi%20%7C%20Full%20Stack%20%7C%20Researcher%20%7C%20Competitive%20Programmer&descSize=15&descColor=00f0ff&descAlignY=70" width="100%" />
 
-- 🌱 I’m currently learning **Computer Networks and DevOps**
+</div>
 
-- 💬 Ask me about **Full-stack web development and Data Structures & Algorithms**
+<div align="center">
 
-- 📫 How to reach me **tripti23557@iiitd.ac.in**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=17&pause=800&color=FF2D9B&center=true&vCenter=true&width=680&lines=%3E+Booting+tripti.exe...+%E2%9C%85;%3E+ECE+%40+IIIT+Delhi+%7C+2023-2027;%3E+LeetCode+Knight+%F0%9F%94%B4+%7C+Rating+1904+%7C+Rank+29%2C426%2F707%2C963;%3E+GastroGraph+%7C+GNN+Ingredient+Substitution+%5BLIVE%5D;%3E+UG+Researcher+%40+CoSy+Lab%2C+IIIT+Delhi;%3E+UCEED+2023+%7C+AIR+400+%7C+Top+2.7%25;%3E+Women+In+Tech+IIITD+%7C+Sponsorship+Lead;%3E+Status%3A+Always+Building...+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/triptikashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="triptikashyap" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tripti_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tripti_k" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=triptikashyap19&show_icons=true&locale=en&layout=compact" alt="triptikashyap19" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=triptikashyap19&show_icons=true&locale=en" alt="triptikashyap19" /></p>
+## ◈ `whoami`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=triptikashyap19&" alt="triptikashyap19" /></p>
+```bash
+┌──(tripti㉿iiitd)-[~/profile]
+└─$ cat identity.json
+```
+
+```json
+{
+  "name"       : "Tripti Kashyap",
+  "location"   : "New Delhi, India 🇮🇳",
+  "education"  : "B.Tech ECE @ IIIT Delhi  |  2023 – 2027",
+  "focus"      : ["Full Stack Dev", "Research", "Competitive Programming"],
+  "current"    : "GastroGraph — GNN-based Ingredient Substitution 🔬",
+  "ask_me"     : ["Web Dev", "DSA", "Graph ML", "Embedded Systems"],
+  "contact"    : "tripti23557@iiitd.ac.in",
+  "fun_fact"   : "UCEED AIR 400 — I design as hard as I code 🎨"
+}
+```
+
+```bash
+┌──(tripti㉿iiitd)-[~/profile]
+└─$ echo "Identity loaded ✅"
+Identity loaded ✅
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## ◈ `ls ./tech-stack/`
+
+**`// Languages`**
+
+![C++](https://img.shields.io/badge/C++-00f0ff?style=for-the-badge&logo=c%2B%2B&logoColor=black)
+![Python](https://img.shields.io/badge/Python-ff2d9b?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-00f0ff?style=for-the-badge&logo=openjdk&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff2d9b?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-00f0ff?style=for-the-badge&logo=postgresql&logoColor=black)
+
+**`// Frontend`**
+
+![React](https://img.shields.io/badge/React-ff2d9b?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-00f0ff?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-ff2d9b?style=for-the-badge&logo=css3&logoColor=white)
+
+**`// Backend & DB`**
+
+![Node.js](https://img.shields.io/badge/Node.js-00f0ff?style=for-the-badge&logo=node.js&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff2d9b?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-00f0ff?style=for-the-badge&logo=supabase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-ff2d9b?style=for-the-badge&logo=mysql&logoColor=white)
+
+**`// Research & AI`**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-ff2d9b?style=for-the-badge&logo=pytorch&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-00f0ff?style=for-the-badge&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-ff2d9b?style=for-the-badge&logo=pandas&logoColor=white)
+
+**`// Tools`**
+
+![Git](https://img.shields.io/badge/Git-00f0ff?style=for-the-badge&logo=git&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-ff2d9b?style=for-the-badge&logo=linux&logoColor=white)
+![libGDX](https://img.shields.io/badge/libGDX-00f0ff?style=for-the-badge&logoColor=black)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## ◈ `cat projects.log`
+
+```bash
+┌──(tripti㉿iiitd)-[~/projects]
+└─$ ls -t
+```
+
+### 🔬 [GastroGraph](https://github.com/triptikashyap19) — Ingredient Substitution via GNN `[LIVE]`
+```
+Stack   →  PyTorch · NetworkX · Pandas
+Status  →  Jan 2026 – Present
+```
+> Built a heterogeneous GNN for ingredient substitution using **SPPMI** and **TF-IDF** weighted graphs.
+> Designed a custom **Disjoint-Context algorithm** to distinguish chemically similar ingredients by usage.
+> Evaluated with chemical overlap scores and graph similarity metrics.
+
+---
+
+### 🗺️ [LastMile](https://github.com/triptikashyap19) — Route Optimization Platform `[DEMO]`
+```
+Stack   →  React · Node.js · Python · SQL
+Status  →  Jun 2025 – Jul 2025
+```
+> Engineered a route optimization system cutting delivery latency by **25%** using Dijkstra's algorithm.
+> Built REST APIs with SQL integration + an interactive React dashboard for real-time tracking.
+
+---
+
+### 🎮 Angry Birds Clone `[GitHub]`
+```
+Stack   →  Java · libGDX · Box2D
+Status  →  Oct 2024 – Dec 2024
+```
+> Physics-based 2D game engine running at **60+ FPS** with full collision detection & projectile motion.
+> Modular OOP architecture for scalable game design.
+
+---
+
+### 🧭 Algorithm Visualizer `[LIVE]`
+```
+Stack   →  HTML5 Canvas · React · JavaScript
+Status  →  Oct 2024 – Nov 2024
+```
+> Interactive visualization of **Dijkstra, A\*, BFS, DFS** with dynamic obstacle grids and custom nodes.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## ◈ `cat experience.log`
+
+```bash
+┌──(tripti㉿iiitd)-[~/experience]
+└─$ cat roles.txt
+```
+
+**🔬 UG Researcher — CoSy Lab, IIIT Delhi** *(Aug 2025 – Dec 2025)*
+> Mood-based recipe recommender under **Prof. Ganesh Bagler**
+> Integrated RecipeDB APIs · Supabase + JavaScript + SQL backend
+> Data pipelines in Java & Python — **30% query performance gain**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## ◈ `cat achievements.log`
+
+```
+[★] LeetCode Knight      →  Rating 1904  |  Rank 29,426 / 707,963  (top 4.2%)
+[★] UCEED 2023           →  AIR 400  |  Top 2.7% Nationally
+[★] Women In Tech IIITD  →  Sponsorship Team Lead  (Jan 2025 – Present)
+[★] IEEE IIITD           →  Technical Events Member  (Aug 2024 – Present)
+[★] GSSoC 2026           →  Open Source Contributor
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## ◈ `git log --stat`
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=triptikashyap19&theme=tokyonight-duo&hide_border=true&fire=ff2d9b&ring=00f0ff&currStreakLabel=ff2d9b)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triptikashyap19&layout=compact&theme=tokyonight&hide_border=true&title_color=ff2d9b&text_color=00f0ff)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## ◈ `ping tripti`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-triptikashyap19-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/triptikashyap19)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_1904-ff2d9b?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/triptikashyap19/)
+[![Gmail](https://img.shields.io/badge/Gmail-tripti23557@iiitd.ac.in-00f0ff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:tripti23557@iiitd.ac.in)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+┌──(tripti㉿iiitd)-[~/]
+└─$ echo "Thanks for visiting — let's build something that breaks the internet 🚀"
+
+Thanks for visiting — let's build something that breaks the internet 🚀
+```
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0030,60:0d001a,100:0d0d0d&height=120&section=footer&stroke=ff2d9b&strokeWidth=1&animation=twinkling" width="100%" />
+
+</div>
