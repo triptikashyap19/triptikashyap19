@@ -26,11 +26,10 @@
   "name"       : "Tripti Kashyap",
   "location"   : "New Delhi, India 🇮🇳",
   "education"  : "B.Tech ECE @ IIIT Delhi  |  2023 – 2027",
-  "focus"      : ["Full Stack Dev", "Research", "Competitive Programming"],
+  "focus"      : ["Full Stack Dev", "Research"],
   "current"    : "GastroGraph — GNN-based Ingredient Substitution 🔬",
-  "ask_me"     : ["Web Dev", "DSA", "Graph ML", "Embedded Systems"],
-  "contact"    : "tripti23557@iiitd.ac.in",
-  "fun_fact"   : "UCEED AIR 400 — I design as hard as I code 🎨"
+  "ask_me"     : ["Web Dev", "DSA", "Graph ML", "Wireless Networks"],
+  "contact"    : "tripti23557@iiitd.ac.in"
 }
 ```
 
@@ -90,7 +89,7 @@ Identity loaded ✅
 └─$ ls -t
 ```
 
-### 🔬 [GastroGraph](https://github.com/triptikashyap19) — Ingredient Substitution via GNN `[LIVE]`
+### 🔬 GastroGraph — Ingredient Substitution via GNN
 ```
 Stack   →  PyTorch · NetworkX · Pandas
 Status  →  Jan 2026 – Present
@@ -101,7 +100,7 @@ Status  →  Jan 2026 – Present
 
 ---
 
-### 🗺️ [LastMile](https://github.com/triptikashyap19) — Route Optimization Platform `[DEMO]`
+### 🗺️ LastMile — Route Optimization Platform 
 ```
 Stack   →  React · Node.js · Python · SQL
 Status  →  Jun 2025 – Jul 2025
@@ -111,7 +110,7 @@ Status  →  Jun 2025 – Jul 2025
 
 ---
 
-### 🎮 Angry Birds Clone `[GitHub]`
+### 🎮 Angry Birds Clone
 ```
 Stack   →  Java · libGDX · Box2D
 Status  →  Oct 2024 – Dec 2024
@@ -121,7 +120,7 @@ Status  →  Oct 2024 – Dec 2024
 
 ---
 
-### 🧭 Algorithm Visualizer `[LIVE]`
+### 🧭 Algorithm Visualizer
 ```
 Stack   →  HTML5 Canvas · React · JavaScript
 Status  →  Oct 2024 – Nov 2024
